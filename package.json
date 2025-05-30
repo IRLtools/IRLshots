@@ -1,6 +1,6 @@
 {
   "name": "irlshots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modern, stylish snapshot tool for OBS and Twitch streamers",
   "main": "src/main.js",
   "scripts": {
