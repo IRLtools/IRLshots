@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "IRLshots",
+    "saveSettings": "Instellingen opslaan"
+  },
+  "tabs": {
+    "obsConnection": "OBS Connection",
+    "settings": "Settings",
+    "chatIntegration": "Chat Integration"
+  },
+  "obsTab": {
+    "title": "OBS-verbinding",
+    "host": "Host",
+    "port": "Port",
+    "password": "Wachtwoord",
+    "connect": "Verbinding maken met OBS",
+    "autoConnect": "Automatisch verbinden bij opstarten",
+    "scene": "Scène",
+    "source": "Bron",
+    "filterByType": "Filteren op type",
+    "testButton": "Polaroid testen",
+    "takeScreenshot": "Schermafbeelding maken",
+    "connectionSuccess": "Succesvol verbonden met OBS",
+    "connectionError": "Fout bij het verbinden met OBS: {error}",
+    "noSources": "Geen bronnen beschikbaar. Maak eerst verbinding met OBS.",
+    "selectScene": "Selecteer eerst een scène"
+  },
+  "settingsTab": {
+    "title": "Instellingen",
+    "imageSettings": "Beeldinstellingen",
+    "imageWidth": "Afbeeldingbreedte",
+    "imageHeight": "Afbeeldinghoogte",
+    "outputFolder": "Uitvoermap",
+    "selectFolder": "Selecteer map",
+    "selectFolderHint": "Selecteer een uitvoermap voor uw schermafbeeldingen",
+    "saveScreenshots": "Schermafbeeldingen opslaan",
+    "discordSettings": "Discord-instellingen",
+    "sendToDiscord": "Verzenden naar Discord",
+    "discordWebhook": "Discord Webhook-URL",
+    "discordBotName": "Discord Bot-naam",
+    "messageTemplate": "Message Template",
+    "browserSource": "Berichtsjabloon",
+    "wsPort": "WebSocket-poort",
+    "animationDelay": "Animatievertraging (ms)",
+    "language": "Taal",
+    "restartRequired": "App opnieuw opstarten vereist om taalwijzigingen door te voeren",
+    "saveSettings": "Instellingen opslaan",
+    "versionInfo": "Versie-informatie",
+    "currentVersion": "Huidige versie",
+    "updateAvailable": "Update beschikbaar",
+    "downloadUpdate": "Update downloaden en installeren",
+    "checkForUpdates": "Controleren op updates",
+    "checking": "Controleren...",
+    "upToDate": "U gebruikt de nieuwste versie."
+  },
+  "chatTab": {
+    "title": "Chat-integratie",
+    "enable": "Twitch-integratie inschakelen",
+    "channel": "Kanaal",
+    "username": "Gebruikersnaam",
+    "oauthToken": "OAuth Token",
+    "command": "Command",
+    "permissions": "Wie kan Command gebruiken?",
+    "permEveryone": "Iedereen",
+    "permSubscriber": "Abonnees+",
+    "permVIP": "VIP's+",
+    "permModerator": "Moderatoren",
+    "permBroadcaster": "Alleen voor de omroep"
+  },
+  "logs": {
+    "title": "Toepassingslogboeken",
+    "clear": "Wissen",
+    "expand": "Logboeken uitbreiden",
+    "collapse": "Logboeken samenvouwen"
+  }
+}
